@@ -1,0 +1,14 @@
+{
+    "runs_seen": 1,
+    "successful_runs": 0,
+    "failed_runs": 1,
+    "guidance": [
+        "Assume the learner starts from zero.",
+        "Use short and simple sentences.",
+        "Explain technical words.",
+        "Teach concepts with practical examples.",
+        "Improve this recurring issue: accuracy: The lesson lacks references or citations for the information provided, which could affect the accuracy of the content.",
+        "Improve this recurring issue: Explain where the information comes from.",
+        "Improve this recurring issue: Explain how retrieved information is used as context."
+    ]
+}

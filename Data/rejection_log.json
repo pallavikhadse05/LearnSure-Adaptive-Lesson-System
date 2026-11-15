@@ -1,0 +1,54 @@
+[
+    {
+        "topic": "Introduction to RAG",
+        "attempt": 1,
+        "date": "2026-11-15T18:47:36",
+        "status": "FAIL",
+        "failed_checks": [
+            "accuracy: The lesson lacks references or citations to ensure accuracy.",
+            "Explain where the information comes from.",
+            "Explain how retrieved information is used as context.",
+            "Explain how the language model generates the answer."
+        ],
+        "suggestions": [
+            "Correct the failed points.",
+            "Explain missing concepts clearly.",
+            "Use simple examples."
+        ],
+        "changed_on_retry": "Feedback was sent to the next generation attempt."
+    },
+    {
+        "topic": "Introduction to RAG",
+        "attempt": 2,
+        "date": "2026-11-15T18:50:14",
+        "status": "FAIL",
+        "failed_checks": [
+            "Explain where the information comes from.",
+            "Explain how retrieved information is used as context.",
+            "Explain how the language model generates the answer."
+        ],
+        "suggestions": [
+            "Correct the failed points.",
+            "Explain missing concepts clearly.",
+            "Use simple examples."
+        ],
+        "changed_on_retry": "Feedback was sent to the next generation attempt."
+    },
+    {
+        "topic": "Introduction to RAG",
+        "attempt": 3,
+        "date": "2026-11-15T18:52:46",
+        "status": "FAIL",
+        "failed_checks": [
+            "accuracy: The lesson lacks references or citations for the information provided, which could affect the accuracy of the content.",
+            "Explain where the information comes from.",
+            "Explain how retrieved information is used as context."
+        ],
+        "suggestions": [
+            "Correct the failed points.",
+            "Explain missing concepts clearly.",
+            "Use simple examples."
+        ],
+        "changed_on_retry": "No retries remaining."
+    }
+]
