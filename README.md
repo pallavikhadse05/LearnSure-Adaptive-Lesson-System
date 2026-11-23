@@ -1,6 +1,9 @@
 
 # LearnSure – Adaptive Lesson Quality System
 
+**I have also created a short Loom video explaining the project, its workflow, and implementation. You can watch the video for a quick overview.**
+https://www.loom.com/share/caa71733a56844e1981892fbf33f8d91
+
 ## Overview
 
 LearnSure is a local AI-powered lesson generation and evaluation system.
@@ -100,3 +103,4 @@ The evaluator should reject the deliberately incorrect statement and request a n
 - Improve memory using repeated failure patterns.
 - Add human feedback and approval.
 - Add more evaluation test cases.
+
